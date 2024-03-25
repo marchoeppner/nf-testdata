@@ -1,0 +1,2 @@
+sample_id,library_id,readgroup_id,R1,R2
+S109,S109,AACYTCLM5.1.S109,https://raw.githubusercontent.com/marchoeppner/nf-testdata/master/gmo-check/data/S109_R1.fastq.gz,https://raw.githubusercontent.com/marchoeppner/nf-testdata/master/gmo-check/data/S109_R2.fastq.gz
