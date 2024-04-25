@@ -1,0 +1,4 @@
+sample	platform	fq1	fq2
+ERR10436090	ILLUMINA	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR104/090/ERR10436090/ERR10436090_1.fastq.gz	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR104/090/ERR10436090/ERR10436090_2.fastq.gz
+ERR10436092	ILLUMINA	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR104/092/ERR10436092/ERR10436092_1.fastq.gz	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR104/092/ERR10436092/ERR10436092_2.fastq.gz
+ERR10436107	ILLUMINA	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR104/007/ERR10436107/ERR10436107_1.fastq.gz	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR104/007/ERR10436107/ERR10436107_2.fastq.gz
