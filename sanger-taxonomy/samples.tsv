@@ -1,2 +1,2 @@
 sample	fwd	rev
-SampleA	https://github.com/bio-raum/FooDMe2/raw/sanger-taxonomy/Solea_fwd.ab1	https://github.com/bio-raum/FooDMe2/raw/sanger-taxonomy/Solea_rev.ab1
+SampleA	https://github.com/marchoeppner/nf-testdata/raw/refs/heads/main/sanger-taxonomy/Solea_fwd.ab1	https://github.com/marchoeppner/nf-testdata/raw/refs/heads/main/sanger-taxonomy/Solea_rev.ab1
